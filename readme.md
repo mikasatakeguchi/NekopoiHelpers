@@ -1,1 +1,30 @@
-## IDK
+## What is this ?
+
+> THIS TOOL IS USING FOR SEARCH HENTAI AND GET INFO FROM [THIS SITE](https://nekopoi.care/) EASIER .
+
+## Features
+
+1. Search Hentai and others .
+2. Get Hentai Info
+3. Get URL Stream
+4. Get URL Download
+
+## Important
+
+Before use this tools , you need to install this :
+
+1. Git - https://git-scm.com/downloads
+2. Nodejs - https://nodejs.org/en/download/
+
+## How to use
+
+```markdown
+- git clone https://github.com/1qtofc/NekopoiHelpers
+- cd NekopoiHelpers
+- npm install
+- node index.js
+- Happy explore
+```
+
+## Proof
+![proof](https://user-images.githubusercontent.com/114583810/195144162-06ab3d14-fac3-427d-9add-0ccd3cd8081e.PNG)
