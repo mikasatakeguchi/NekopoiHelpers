@@ -26,5 +26,10 @@ Before use this tools , you need to install this :
 - Happy explore
 ```
 
+## Demo
+
+![Demo](https://user-images.githubusercontent.com/114583810/195151025-823d3c59-ff0f-49c4-b02b-5191d388d598.gif)
+
 ## Proof
+
 ![proof](https://user-images.githubusercontent.com/114583810/195144162-06ab3d14-fac3-427d-9add-0ccd3cd8081e.PNG)
