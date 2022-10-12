@@ -13,8 +13,8 @@
 
 Before use this tools , you need to install this :
 
-1. Git - https://git-scm.com/downloads
-2. Nodejs - https://nodejs.org/en/download/
+1. [Git](https://git-scm.com/downloads)
+2. [Nodejs](https://nodejs.org/en/download/)
 
 ## How to use
 
